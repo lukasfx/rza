@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json#start_ravezeitarchiv"
+                 "value":"world:\/\/lobby\/pcb.json#start_ravezeitarchiv"
                 }],
          "type":"tilelayer",
          "visible":true,
